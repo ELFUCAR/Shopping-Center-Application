@@ -1,3 +1,3 @@
 
-"# Shopping-Center-Application" 
-"# Shopping-Center-Application" 
+"# This project was final exam in python in 2018, Spring." 
+
